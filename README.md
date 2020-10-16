@@ -1,2 +1,2 @@
 #### NotificationLaunch 
-Android实现点击通知栏后，先启动应用再打开目标Activity的一个小demo
+After Android clicks on the notification bar, first start the application and then open a small demo of the target Activity
